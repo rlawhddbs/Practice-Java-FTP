@@ -1,2 +1,3 @@
 # java-ftp-study
-Java로 짠 ftp 프로그램입니다
+
+Practice FTP program with Java
